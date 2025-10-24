@@ -1,5 +1,4 @@
 # Shipping Policy
 
-No physical goods are shipped from this website.  
-This is a personal project for testing payment integration.  
-All content and actions are purely digital and non-commercial.
+No physical or digital goods are shipped from this website.  
+This project is for demonstration purposes only and involves no real deliveries or products.
